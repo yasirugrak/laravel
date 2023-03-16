@@ -1,12 +1,12 @@
 ## Run
 
-composer require laravel/ui \n
-php artisan ui bootstrap --auth \n
-npm install \n
-npm run dev \n
-php artisan migrate \n
-php artisan db:seed \n
-php artisan serve \n
+** composer require laravel/ui **
+**php artisan ui bootstrap --auth **
+**npm install **
+**npm run dev **
+**php artisan migrate **
+**php artisan db:seed **
+**php artisan serve **
 
 
 
